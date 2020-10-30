@@ -6,7 +6,7 @@ class IntlTool < Formula
   homepage "http://wiki.intra.xiaojukeji.com/pages/viewpage.action?pageId=313614371"
   url "http://git.xiaojukeji.com/zhaochunzheng/po-translate/raw/master/intl-tool"
   version "1.0.0"
-  sha256 "8074002aa2594f16e43796b769cd0992362f181ca50c9ff8617e867524673cde"
+  sha256 "a8262d4bad16939389f58cfc72146c444f75253f94fd9356427b5b08c443408f"
 
   # depends_on "cmake" => :build
 
