@@ -3,10 +3,10 @@
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class IntlTool < Formula
   desc "intl-tool"
-  homepage ""
+  homepage "http://wiki.intra.xiaojukeji.com/pages/viewpage.action?pageId=313614371"
   url "https://github.com/MrLawrence1990/intl-tool/blob/master/intl-tool.tgz"
   version "1.0.0"
-  sha256 ""
+  sha256 "2d43546f41bd48c46b35d7bdc4aa363092d3c2849e47fd903ade09ff5587c934"
 
   # depends_on "cmake" => :build
 
