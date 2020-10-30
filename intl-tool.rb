@@ -2,10 +2,10 @@
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class IntlTool < Formula
-  desc ""
+  desc "intl-tool"
   homepage ""
   url "https://github.com/MrLawrence1990/intl-tool/blob/master/intl-tool.tgz"
-  version ""
+  version "1.0.0"
   sha256 ""
 
   # depends_on "cmake" => :build
