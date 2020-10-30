@@ -4,7 +4,7 @@
 class IntlTool < Formula
   desc "intl-tool"
   homepage "http://wiki.intra.xiaojukeji.com/pages/viewpage.action?pageId=313614371"
-  url "https://github.com/MrLawrence1990/intl-tool/archive/1.0.1.tar.gz"
+  url "http://git.xiaojukeji.com/zhaochunzheng/po-translate/raw/master/intl-tool"
   version "1.0.0"
   sha256 "8074002aa2594f16e43796b769cd0992362f181ca50c9ff8617e867524673cde"
 
