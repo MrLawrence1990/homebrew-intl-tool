@@ -13,7 +13,7 @@ class IntlTool < Formula
   def install
     # ENV.deparallelize  # if your formula fails when building in parallel
     # Remove unrecognized options if warned by configure
-    system "tar -zxvf intl-tool.tgz"
+    # system "tar -zxvf intl-tool.tgz"
     bin.install "intl-tool"
     # system "cmake", ".", *std_cmake_args
   end
