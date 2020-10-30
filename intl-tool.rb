@@ -6,7 +6,7 @@ class IntlTool < Formula
   homepage "http://wiki.intra.xiaojukeji.com/pages/viewpage.action?pageId=313614371"
   url "https://github.com/MrLawrence1990/intl-tool/blob/master/intl-tool.tgz"
   version "1.0.0"
-  sha256 "2d43546f41bd48c46b35d7bdc4aa363092d3c2849e47fd903ade09ff5587c934"
+  sha256 "302e0d4b4b91f6ad249fbcbeb754021d0478fac9c6189d09c7ac19870ad6658a"
 
   # depends_on "cmake" => :build
 
